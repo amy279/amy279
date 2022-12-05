@@ -41,8 +41,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amy279&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=Dockerfile" />
   </a>
 </p>
-<br/> <br/>
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:A6E3E9,100:71C9CE&reversal=true)
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:A6E3E9,100:71C9CE&reversal=true" />
 
 <!--
 **amy279/amy279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
