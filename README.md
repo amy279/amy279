@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF8FB1&text=Dain%20Kim&animation=twinkling&fontColor=2E0249&fontAlign=20)
+
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/amy27991@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Dain Kim-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
