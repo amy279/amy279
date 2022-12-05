@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/amy27991@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Dain Kim-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
+
+![Dain's GitHub stats](https://github-readme-stats.vercel.app/api?username=amy279&show_icons=true&theme=radical)
+
 <!--
 **amy279/amy279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
