@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF8FB1&text=Dain%20Kim&animation=twinkling&fontColor=2E0249&fontAlign=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A6E3E9,100:71C9CE&text=Dain%20Kim&animation=twinkling&fontColor=393E46&fontAlign=20&height=200)
 
 ### Hi there 👋
 
